@@ -1,11 +1,4 @@
-
-
-<!--
-**aniketbaghel9040-cyber/aniketbaghel9040-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently workin# 💫 About Me:
+# 💫 About Me:
 Hi, I'm Aniket Baghel, a 3rd-year B.Tech Computer Science Engineering student.<br> I have a basic foundation in C and intermediate-level knowledge of Java and Python, with a strong interest in AI/ML and software development. I'm continuously improving my DSA, Java, and AI/ML skills by building practical projects and solving coding problems.<br>Ask me about — Java, Python, C, AI/ML & software development<br>⚡ Fun fact — I enjoy turning ideas into real-world projects 🚀
 
 
@@ -22,5 +15,4 @@ Hi, I'm Aniket Baghel, a 3rd-year B.Tech Computer Science Engineering student.<b
 ---
 [![](https://komarev.com/ghpvc/?username=aniketbaghel9040-cyber&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->g 
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
